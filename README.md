@@ -7,7 +7,7 @@ The popular [2048](https://en.wikipedia.org/wiki/2048_(video_game)) game, now on
 
 Launch the game in your console using the given command, provided you have Python 2.7 installed on your system.
 
-```py
+```sh
 python 2048.py
 ```
 
